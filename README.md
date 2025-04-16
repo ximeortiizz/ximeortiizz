@@ -3,8 +3,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Robotics and Digital Systems Engineering student at Tec de Monterrey, Mexico. I love to learn and build something new, productive, innovative and creative. I'm passionate about STEM and innovation through technology.
-* **I am interested in designing, robotics, and mathematics**
+I am an undergraduate Robotics and Digital Systems Engineering student at Tec de Monterrey, Mexico. I love to learn and build something new, productive, innovative and creative. I'm expanding my knowledge in digital systems. I'm passionate about STEM and innovation through technology.
+* **I am interested in designing, robotics, circuits and mathematics**
 - 🌱 I’m currently learning ...
   - C++
   - Dart

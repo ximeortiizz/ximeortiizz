@@ -25,11 +25,11 @@ I am an undergraduate Robotics and Digital Systems Engineering student at Tec de
 <br>
 </p>
 
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=ximeortiizz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ximeortiizz)
+<!--
+<h2>Github stats:</h2>  
+[![](https://github-readme-stats.vercel.app/api?username=ximeortiizz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ximeortiizz)  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ximeortiizz&theme=material-palenight)](https://github.com/ximeortiizz)
-</div>
+-->
 
 
 

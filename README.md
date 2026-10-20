@@ -5,10 +5,10 @@
 
 I am an undergraduate Robotics and Digital Systems Engineering student at Tec de Monterrey, Mexico. I love to learn and build something new, productive, innovative and creative. I'm expanding my knowledge in digital systems. I'm passionate about STEM and innovation through technology.
 * **I am interested in designing, robotics, circuits and mathematics**
-- 🌱 I’m currently learning ...
-  - C++
+- I’m currently learning ...
+  - Python
   - Dart
-  - Assembly Lenguage
+  - Data Science
 - Outside tech, 📖 I love to read, 🖌️ do painting , 🎵 listen to music and playing violin, computer aided design, formula 1 and explore nature outdoors.
 
 ---
